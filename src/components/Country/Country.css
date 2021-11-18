@@ -12,3 +12,16 @@ img {
     padding: 10px;
     margin: 25px;
 }
+
+.btn-style {
+    background-color: papayawhip;
+    color: #0F2738;
+    font-weight: 700;
+    margin-top: 10px;
+    padding: 5px 20px;
+}
+
+.btn-style:hover {
+    background-color: peachpuff;
+    color: #0F2738;
+}
