@@ -1,0 +1,13 @@
+img {
+    width: 300px;
+    height: 200px;
+}
+
+.card-style {
+    background-color: #0F2738;
+    border: 10px solid black;
+    border-radius: 25px;
+    color: papayawhip;
+    padding: 10px;
+    margin: 25px;
+}

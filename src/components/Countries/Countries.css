@@ -1,0 +1,11 @@
+.card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px
+}
+
+@media only screen and (max-width: 600px) {
+    .card {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
